@@ -1,0 +1,6 @@
+
+server:
+  port: 6001
+
+privateKeyPath: ./keys/private_key.key
+publicKeyPath: ./keys/public_key.crt
