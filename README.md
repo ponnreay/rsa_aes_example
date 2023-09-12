@@ -1,5 +1,7 @@
 # AES + RSA Encryption
 
+![flow.png](https://github.com/ponnreay/rsa_aes_example/blob/main/docs/flow.png?raw=true)
+
 ### Note: how to generate key pair:
 ```bash
 cd keys
